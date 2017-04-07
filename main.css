@@ -130,6 +130,15 @@ Page: Our Staff
 
 .ladiesnames ul li, .mennames ul li {
   list-style: none;
+  background: #faf2bf;
+  padding: 5px;
+  margin-left: 35px;
+}
+
+.ladiesnames ul, .mennames ul {
+  background: #f1d79c; 
+  padding: 20px;
+  text-decoration: none;
 }
 
 
