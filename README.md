@@ -6,4 +6,4 @@ A Kut Above is in Humboldt, TN and is owned by Mrs. Sue Johnson. We chose A Kut 
 
 
 Thank you for looking at our website! 
-I hope you like what you see, and we'll see YOU at San Fransisco.
+We hope you like what you see, and we'll see YOU in San Fransisco.
